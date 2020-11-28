@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name promicro)(type KiCad)(uri "C:/Users/Vlad/Documents/keyboard project/kicad/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
+  (lib (name vladkvit_keyb)(type KiCad)(uri "C:/Users/Vlad/Documents/keyboard project/kicad/vladkvit_keyb/vladkvit_keyb.pretty")(options "")(descr ""))
+)

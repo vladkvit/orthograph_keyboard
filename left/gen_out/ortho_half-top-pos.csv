@@ -1,0 +1,14 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","CP","CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder",137.121201,-99.484841,0.000000,top
+"C2","CP","CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder",137.121201,-103.157521,0.000000,top
+"C3","CP","CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder",137.121201,-88.466801,0.000000,top
+"C4","CP","CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder",137.121201,-92.139481,0.000000,top
+"C5","CP","CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder",137.121201,-106.830201,0.000000,top
+"C6","CP","CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder",137.121201,-95.812161,0.000000,top
+"R1","R100k","Resistor-Hybrid",148.524033,-77.535967,45.000000,top
+"R2","R100k","Resistor-Hybrid",148.539200,-83.108800,45.000000,top
+"R3","R1k","Resistor-Hybrid",148.539200,-94.234000,45.000000,top
+"R4","R100k","Resistor-Hybrid",148.539200,-71.958200,225.000000,top
+"R5","R1k","Resistor-Hybrid",148.539200,-88.646000,45.000000,top
+"Rext1","R20k","Resistor-Hybrid",148.524033,-99.786367,225.000000,top
+"U2","IS31FL3733-TQ","TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm",136.728200,-79.171800,270.000000,top

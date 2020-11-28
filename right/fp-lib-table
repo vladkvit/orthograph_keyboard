@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name vladkvit_keyb)(type KiCad)(uri "C:/Users/Vlad/Documents/keyboard project/kicad/vladkvit_keyb/vladkvit_keyb.pretty")(options "")(descr ""))
+)

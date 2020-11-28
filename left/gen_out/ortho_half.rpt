@@ -1,0 +1,4626 @@
+## Footprint report - date 09/24/20 21:47:09
+## Created by Pcbnew version kicad (5.1.6)-1
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner -24.790400 -9.880600
+lower_right_corner 189.280801 178.333401
+$EndBOARD
+
+$MODULE "K66"
+reference "K66"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB"
+attribut none
+position 134.341114 137.702962  orientation 70.00
+layer front
+$PAD "5"
+Shape Rect Layer back
+position  2.667000  4.000000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position -2.667000  4.000000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position  2.667000  5.600000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position -2.667000  5.600000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  3.000000  3.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 90.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  3.000000  3.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  5.640000 -5.080000  size  2.800000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -6.910000 -2.540000  size  2.800000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position -5.298093  4.955160  size  1.600000  1.200000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -5.298093  2.155160  size  1.600000  1.200000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position 11.938000 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -11.938000 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position 11.938000  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -11.938000  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K66
+
+$MODULE "K65"
+reference "K65"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB"
+attribut none
+position 116.439970 131.187478  orientation 250.00
+layer front
+$PAD "5"
+Shape Rect Layer back
+position  2.667000  4.000000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position -2.667000  4.000000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position  2.667000  5.600000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position -2.667000  5.600000  size  1.800000  0.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  3.000000  3.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 90.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  3.000000  3.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  5.640000 -5.080000  size  2.800000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -6.910000 -2.540000  size  2.800000  1.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position -5.298093  4.955160  size  1.600000  1.200000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -5.298093  2.155160  size  1.600000  1.200000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position 11.938000 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -11.938000 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position 11.938000  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -11.938000  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K65
+
+$MODULE "J1"
+reference "J1"
+value "AudioJack4"
+footprint "vladkvit_keyb:TRRS-PJ-320A"
+attribut none
+position 153.746200 56.550000  orientation 270.00
+layer front
+$PAD "T"
+Shape Oval Layer both
+position -2.300000 11.300000  size  1.600000  2.000000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "R1"
+Shape Oval Layer both
+position  2.300000 10.200000  size  1.600000  2.000000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S"
+Shape Oval Layer both
+position  2.300000  3.200000  size  1.600000  2.000000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  8.600000  size  1.500000  1.500000  orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  1.600000  size  1.500000  1.500000  orientation 0.00
+drill  1.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "R2"
+Shape Oval Layer both
+position  2.300000  6.200000  size  1.600000  2.000000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "J8"
+reference "J8"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position 131.974500 64.100000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J8
+
+$MODULE "J6"
+reference "J6"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position 131.974500 109.012000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J6
+
+$MODULE "J4"
+reference "J4"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position 152.365500 64.100000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J4
+
+$MODULE "J3"
+reference "J3"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position 152.365500 116.434000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J3
+
+$MODULE "U1"
+reference "U1"
+value "EliteC"
+footprint "Keebio-Parts:Elite-C-castellated-24pin-holes"
+attribut none
+position 142.087600 33.655000  orientation 270.00
+layer front
+$PAD "24"
+Shape Rect Layer front
+position -13.970000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Rect Layer front
+position -11.430000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Rect Layer front
+position -8.890000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Rect Layer front
+position -6.350000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Rect Layer front
+position -3.810000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Rect Layer front
+position -1.270000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Rect Layer front
+position  1.270000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Rect Layer front
+position  3.810000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Rect Layer front
+position  6.350000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Rect Layer front
+position  8.890000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Rect Layer front
+position 11.430000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Rect Layer front
+position 13.970000 -9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Rect Layer front
+position 13.970000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Rect Layer front
+position 11.430000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Rect Layer front
+position  8.890000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer front
+position  6.350000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer front
+position  3.810000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer front
+position  1.270000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer front
+position -1.270000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer front
+position -3.810000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer front
+position -6.350000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer front
+position -8.890000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -11.430000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -13.970000  9.398000  size  2.000000  3.250000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Circle Layer both
+position -13.970000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Circle Layer both
+position 13.970000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Circle Layer both
+position -11.430000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Circle Layer both
+position -8.890000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Circle Layer both
+position -6.350000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Circle Layer both
+position -3.810000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Circle Layer both
+position -1.270000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Circle Layer both
+position  1.270000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Circle Layer both
+position  3.810000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Circle Layer both
+position  6.350000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Circle Layer both
+position  8.890000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Circle Layer both
+position 11.430000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Circle Layer both
+position 13.970000 -7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Circle Layer both
+position 11.430000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Circle Layer both
+position  8.890000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Circle Layer both
+position  6.350000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Circle Layer both
+position  3.810000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Circle Layer both
+position  1.270000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Circle Layer both
+position -1.270000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Circle Layer both
+position -3.810000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Circle Layer both
+position -6.350000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position -8.890000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -11.430000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position -13.970000  7.620000  size  1.752600  1.752600  orientation 0.00
+drill  1.092200
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "SW1"
+reference "SW1"
+value "SW_PUSH_RESET"
+footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2"
+attribut smd
+position 142.011400 27.965400  orientation 0.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  2.050000 -0.800000  size  0.900000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  2.050000  0.800000  size  0.900000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.050000 -0.800000  size  0.900000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -2.050000  0.800000  size  0.900000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1
+
+$MODULE "J9"
+reference "J9"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position 123.850400 111.582200  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J9
+
+$MODULE "J7"
+reference "J7"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position  8.636000 99.974400  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J7
+
+$MODULE "J5"
+reference "J5"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position 80.962250 119.062500  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J5
+
+$MODULE "J2"
+reference "J2"
+value "Conn_01x01"
+footprint "vladkvit_keyb:m2.5_hole"
+attribut none
+position  8.463000 23.901400  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.700000  2.700000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "K64"
+reference "K64"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot"
+attribut none
+position 92.868500 119.062500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K64
+
+$MODULE "K63"
+reference "K63"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot"
+attribut none
+position 69.056000 119.062500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K63
+
+$MODULE "K62"
+reference "K62"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot"
+attribut none
+position 45.243500 119.062500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K62
+
+$MODULE "K61"
+reference "K61"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot"
+attribut none
+position 21.431000 119.062500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K61
+
+$MODULE "K56"
+reference "K56"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 119.062500 100.012500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K56
+
+$MODULE "K55"
+reference "K55"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 100.012500 100.012500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K55
+
+$MODULE "K54"
+reference "K54"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 80.962500 100.012500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K54
+
+$MODULE "K53"
+reference "K53"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 61.912500 100.012500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K53
+
+$MODULE "K52"
+reference "K52"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 42.862500 100.012500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K52
+
+$MODULE "K51"
+reference "K51"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot"
+attribut none
+position 19.050500 100.012500  orientation 0.00
+layer front
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K51
+
+$MODULE "K46"
+reference "K46"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 119.062500 80.962500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K46
+
+$MODULE "K45"
+reference "K45"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 100.012500 80.962500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K45
+
+$MODULE "K44"
+reference "K44"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 80.962500 80.962500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K44
+
+$MODULE "K43"
+reference "K43"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 61.912500 80.962500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K43
+
+$MODULE "K42"
+reference "K42"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 42.862500 80.962500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K42
+
+$MODULE "K41"
+reference "K41"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot"
+attribut none
+position 19.050500 80.962500  orientation 0.00
+layer front
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K41
+
+$MODULE "K36"
+reference "K36"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 119.062500 61.912500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K36
+
+$MODULE "K35"
+reference "K35"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 100.012500 61.912500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K35
+
+$MODULE "K34"
+reference "K34"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 80.962500 61.912500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K34
+
+$MODULE "K33"
+reference "K33"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 61.912500 61.912500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K33
+
+$MODULE "K32"
+reference "K32"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 42.862500 61.912500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K32
+
+$MODULE "K31"
+reference "K31"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot"
+attribut none
+position 19.050500 61.912500  orientation 0.00
+layer front
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K31
+
+$MODULE "K26"
+reference "K26"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 119.062500 42.862500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K26
+
+$MODULE "K25"
+reference "K25"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 100.012500 42.862500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K25
+
+$MODULE "K24"
+reference "K24"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 80.962500 42.862500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K24
+
+$MODULE "K23"
+reference "K23"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 61.912500 42.862500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K23
+
+$MODULE "K22"
+reference "K22"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 42.862500 42.862500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K22
+
+$MODULE "K21"
+reference "K21"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot"
+attribut none
+position 19.050500 42.862500  orientation 0.00
+layer front
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K21
+
+$MODULE "K16"
+reference "K16"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 119.062500 23.812500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K16
+
+$MODULE "K15"
+reference "K15"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 100.012500 23.812500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K15
+
+$MODULE "K14"
+reference "K14"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 80.962500 23.812500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K14
+
+$MODULE "K13"
+reference "K13"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 61.912500 23.812500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K13
+
+$MODULE "K12"
+reference "K12"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot"
+attribut none
+position 42.862500 23.812500  orientation 0.00
+layer front
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K12
+
+$MODULE "K11"
+reference "K11"
+value "KEYSW_RGB"
+footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot"
+attribut none
+position 19.050500 23.812500  orientation 0.00
+layer front
+$PAD "5"
+Shape Rect Layer back
+position -2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position  2.667000 -4.000000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position  2.667000 -5.600000  size  1.800000  0.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.800000  1.800000  orientation 180.00
+drill  1.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 270.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "HOLE"
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.000000  3.000000  orientation 180.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -5.640000  5.080000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  6.910000  2.540000  size  2.800000  1.700000  orientation 180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  5.298093 -4.955160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  5.298093 -2.155160  size  1.600000  1.200000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  K11
+
+$MODULE "C1"
+reference "C1"
+value "CP"
+footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder"
+attribut smd
+position 137.121201 99.484841  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$MODULE "C2"
+reference "C2"
+value "CP"
+footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder"
+attribut smd
+position 137.121201 103.157521  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "C3"
+reference "C3"
+value "CP"
+footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder"
+attribut smd
+position 137.121201 88.466801  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C4"
+reference "C4"
+value "CP"
+footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder"
+attribut smd
+position 137.121201 92.139481  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C5"
+reference "C5"
+value "CP"
+footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder"
+attribut smd
+position 137.121201 106.830201  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C6"
+reference "C6"
+value "CP"
+footprint "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder"
+attribut smd
+position 137.121201 95.812161  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -1.437500  0.000000  size  1.575000  1.350000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE "R1"
+reference "R1"
+value "R100k"
+footprint "Keebio-Parts:Resistor-Hybrid"
+attribut smd
+position 148.524033 77.535967  orientation 45.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "R2"
+reference "R2"
+value "R100k"
+footprint "Keebio-Parts:Resistor-Hybrid"
+attribut smd
+position 148.539200 83.108800  orientation 45.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R3"
+reference "R3"
+value "R1k"
+footprint "Keebio-Parts:Resistor-Hybrid"
+attribut smd
+position 148.539200 94.234000  orientation 45.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "R4"
+reference "R4"
+value "R100k"
+footprint "Keebio-Parts:Resistor-Hybrid"
+attribut smd
+position 148.539200 71.958200  orientation 225.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R5"
+reference "R5"
+value "R1k"
+footprint "Keebio-Parts:Resistor-Hybrid"
+attribut smd
+position 148.539200 88.646000  orientation 45.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "Rext1"
+reference "Rext1"
+value "R20k"
+footprint "Keebio-Parts:Resistor-Hybrid"
+attribut smd
+position 148.524033 99.786367  orientation 225.00
+layer front
+$PAD "1"
+Shape Rect Layer front
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position -3.900000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer front
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -1.350000  0.000000  size  1.500000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -2.500000  0.000000  size  2.900000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Rext1
+
+$MODULE "U2"
+reference "U2"
+value "IS31FL3733-TQ"
+footprint "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm"
+attribut smd
+position 136.728200 79.171800  orientation 270.00
+layer front
+$PAD "1"
+Shape Roundrect Layer front
+position -4.162500 -2.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer front
+position -4.162500 -2.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Roundrect Layer front
+position -4.162500 -1.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Roundrect Layer front
+position -4.162500 -1.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Roundrect Layer front
+position -4.162500 -0.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Roundrect Layer front
+position -4.162500 -0.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Roundrect Layer front
+position -4.162500  0.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Roundrect Layer front
+position -4.162500  0.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Roundrect Layer front
+position -4.162500  1.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Roundrect Layer front
+position -4.162500  1.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Roundrect Layer front
+position -4.162500  2.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Roundrect Layer front
+position -4.162500  2.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Roundrect Layer front
+position -2.750000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Roundrect Layer front
+position -2.250000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Roundrect Layer front
+position -1.750000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Roundrect Layer front
+position -1.250000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Roundrect Layer front
+position -0.750000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Roundrect Layer front
+position -0.250000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Roundrect Layer front
+position  0.250000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Roundrect Layer front
+position  0.750000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Roundrect Layer front
+position  1.250000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Roundrect Layer front
+position  1.750000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Roundrect Layer front
+position  2.250000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Roundrect Layer front
+position  2.750000  4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "25"
+Shape Roundrect Layer front
+position  4.162500  2.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "26"
+Shape Roundrect Layer front
+position  4.162500  2.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "27"
+Shape Roundrect Layer front
+position  4.162500  1.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "28"
+Shape Roundrect Layer front
+position  4.162500  1.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "29"
+Shape Roundrect Layer front
+position  4.162500  0.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "30"
+Shape Roundrect Layer front
+position  4.162500  0.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "31"
+Shape Roundrect Layer front
+position  4.162500 -0.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "32"
+Shape Roundrect Layer front
+position  4.162500 -0.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "33"
+Shape Roundrect Layer front
+position  4.162500 -1.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "34"
+Shape Roundrect Layer front
+position  4.162500 -1.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "35"
+Shape Roundrect Layer front
+position  4.162500 -2.250000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "36"
+Shape Roundrect Layer front
+position  4.162500 -2.750000  size  1.475000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "37"
+Shape Roundrect Layer front
+position  2.750000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "38"
+Shape Roundrect Layer front
+position  2.250000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "39"
+Shape Roundrect Layer front
+position  1.750000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "40"
+Shape Roundrect Layer front
+position  1.250000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "41"
+Shape Roundrect Layer front
+position  0.750000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "42"
+Shape Roundrect Layer front
+position  0.250000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "43"
+Shape Roundrect Layer front
+position -0.250000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "44"
+Shape Roundrect Layer front
+position -0.750000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "45"
+Shape Roundrect Layer front
+position -1.250000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "46"
+Shape Roundrect Layer front
+position -1.750000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "47"
+Shape Roundrect Layer front
+position -2.250000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "48"
+Shape Roundrect Layer front
+position -2.750000 -4.162500  size  0.300000  1.475000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "49"
+Shape Rect Layer front
+position  0.000000  0.000000  size  5.000000  5.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -1.875000 -1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -1.875000 -0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -1.875000  0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -1.875000  1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -0.625000 -1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -0.625000 -0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -0.625000  0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position -0.625000  1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  0.625000 -1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  0.625000 -0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  0.625000  0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  0.625000  1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  1.875000 -1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  1.875000 -0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  1.875000  0.625000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Roundrect Layer nocopper
+position  1.875000  1.875000  size  1.010000  1.010000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U2
+
+$EndDESCRIPTION

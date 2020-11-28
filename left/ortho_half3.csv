@@ -1,0 +1,19 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Part number,Vendor
+"C1, C2, C3, C4, C5, C6, ",6,0.1 μF,CP,EIA-3216-10_Kemet-I_Pad1.58x1.35mm,Polarized capacitor Tantalum,Any,Any
+"K11, K21, K31, K41, K51, ",5,1N4148W-TP,Diode,SOD-123,Diode,1N4148W-TP,Any
+"K12, K13, K14, K15, K16, K22, K23, K24, K25, K26, K32, K33, K34, K35, K36, K42, K43, K44, K45, K46, K52, K53, K54, K55, K56, ",25,1N4148W-TP,Diode,SOD-123,Diode,1N4148W-TP,Any
+"K61, K62, K63, K64, ",4,1N4148W-TP,Diode,SOD-123,Diode,1N4148W-TP,Any
+"K65, ",1,1N4148W-TP,Diode,SOD-123,Diode,1N4148W-TP,Any
+"K66, ",1,1N4148W-TP,Diode,SOD-123,Diode,1N4148W-TP,Any
+"K11, K21, K31, K41, K51, ",5,-,Kailh Socket,Custom,Socket,Kailh socket,Any or https://www.aliexpress.com/item/10000252734106.html
+"K12, K13, K14, K15, K16, K22, K23, K24, K25, K26, K32, K33, K34, K35, K36, K42, K43, K44, K45, K46, K52, K53, K54, K55, K56, ",25,-,Kailh Socket,Custom,Socket,Kailh socket,Any or https://www.aliexpress.com/item/10000252734106.html
+"K61, K62, K63, K64, ",4,-,Kailh Socket,Custom,Socket,Kailh socket,Any or https://www.aliexpress.com/item/10000252734106.html
+"K65, ",1,-,Kailh Socket,Custom,Socket,Kailh socket,Any or https://www.aliexpress.com/item/10000252734106.html
+"K66, ",1,-,Kailh Socket,Custom,Socket,Kailh socket,Any or https://www.aliexpress.com/item/10000252734106.html
+"R1, R2, R4, ",3,R100k,R,2012,Resistor, Any,Any
+"R3, R5, ",2,R1k,R,2012,Resistor, Any,Any
+"Rext1, ",1,R20k,R,2012,Resistor, Any,Any
+"SW1, ",1,SW_Push_1P1T_NO_CK_KMR2,SW_PUSH,4.60mm x 2.80mm,Momentary Push button,KMR231GLFS or any KMR2 series,Any or https://www.aliexpress.com/item/4001159293893.html
+"U2, ",1,IS31FL3733-TQ,IS31FL3733-TQ,Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm,"12x16 LED matrix driver with 8-bit PWM and breathing, TQFP-48",IS31FL3733-TQ,Any or https://www.alibaba.com/product-detail/Integrated-Circuit-IS31FL3733-TQLS4-TR-_1600089956957.html
+J1,1,TRRS-PJ-320A,TRRS-PJ-320A,Custom,Audio Jack,TRRS-PJ-320A,Any or https://www.aliexpress.com/item/33029465106.html
+SUM,87,,,,,,
