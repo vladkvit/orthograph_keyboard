@@ -25,10 +25,10 @@ F 3 "http://www.issi.com/WW/pdf/IS31FL3733.pdf" H 6650 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L vladkvit_keyb:EliteC U1
+L vladkvit_keyb:microctrl_superset U
 U 1 1 5F1A2AA3
 P 1850 3850
-F 0 "U1" H 1850 4887 60  0000 C CNN
+F 0 "U" H 1850 4887 60  0000 C CNN
 F 1 "EliteC" H 1850 4781 60  0000 C CNN
 F 2 "vladkvit_keyb:Elite-C-castellated-24pin-holes" V 1700 3250 60  0001 C CNN
 F 3 "" V 1700 3250 60  0000 C CNN
@@ -637,10 +637,17 @@ Wire Wire Line
 	2550 3000 2550 2850
 Wire Wire Line
 	2550 2850 2650 2850
-NoConn ~ 2550 4200
-NoConn ~ 1650 4500
-NoConn ~ 1750 4500
-NoConn ~ 1850 4500
 NoConn ~ 1950 4500
+$Comp
+L Connector_Generic:Conn_01x04 J?
+U 1 1 60CE64C0
+P 2450 5200
+F 0 "J?" H 2368 4775 50  0000 C CNN
+F 1 "Conn_01x04" H 2368 4866 50  0000 C CNN
+F 2 "" H 2450 5200 50  0001 C CNN
+F 3 "~" H 2450 5200 50  0001 C CNN
+	1    2450 5200
+	-1   0    0    1   
+$EndComp
 NoConn ~ 2050 4500
 $EndSCHEMATC

@@ -1249,4 +1249,34 @@ Wire Wire Line
 Connection ~ 6250 10650
 Wire Wire Line
 	6250 10650 7300 10650
+$Comp
+L Device:Rotary_Encoder_Switch SW?
+U 1 1 60D96427
+P 11800 2550
+F 0 "SW?" H 11800 2917 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 11800 2826 50  0000 C CNN
+F 2 "" H 11650 2710 50  0001 C CNN
+F 3 "~" H 11800 2810 50  0001 C CNN
+	1    11800 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60D9642D
+P 11200 2700
+F 0 "#PWR?" H 11200 2450 50  0001 C CNN
+F 1 "GND" H 11205 2527 50  0000 C CNN
+F 2 "" H 11200 2700 50  0001 C CNN
+F 3 "" H 11200 2700 50  0001 C CNN
+	1    11200 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11500 2550 11200 2550
+Wire Wire Line
+	11200 2550 11200 2700
+Text GLabel 11500 2450 0    50   Input ~ 0
+encA1
+Text GLabel 11500 2650 0    50   Input ~ 0
+encA2
 $EndSCHEMATC
