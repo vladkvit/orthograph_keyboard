@@ -25,12 +25,12 @@ F 3 "http://www.issi.com/WW/pdf/IS31FL3733.pdf" H 6650 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L vladkvit_keyb:microctrl_superset U
+L vladkvit_keyb:microctrl_superset U1
 U 1 1 5F1A2AA3
 P 1850 3850
-F 0 "U" H 1850 4887 60  0000 C CNN
+F 0 "U1" H 1850 4887 60  0000 C CNN
 F 1 "microctrl_superset" H 1850 4781 60  0000 C CNN
-F 2 "Keebio-Parts:Elite-C-castellated-24pin-holes" V 1700 3250 60  0001 C CNN
+F 2 "vladkvit_keyb:microcontroller_eliteC_ninenano" V 1700 3250 60  0001 C CNN
 F 3 "" V 1700 3250 60  0000 C CNN
 	1    1850 3850
 	1    0    0    -1  
@@ -41,7 +41,7 @@ U 1 1 5F1A2AA9
 P 10200 1050
 F 0 "C6" H 10318 1096 50  0000 L CNN
 F 1 "CP" H 10318 1005 50  0000 L CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder" H 10238 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 10238 900 50  0001 C CNN
 F 3 "~" H 10200 1050 50  0001 C CNN
 	1    10200 1050
 	1    0    0    -1  
@@ -78,7 +78,7 @@ Text GLabel 1150 3600 0    50   BiDi ~ 0
 SCL
 Text GLabel 1150 3500 0    50   BiDi ~ 0
 SDA
-Text GLabel 2550 4200 2    50   BiDi ~ 0
+Text GLabel 2550 4100 2    50   BiDi ~ 0
 serial
 $Comp
 L power:GND #PWR0101
@@ -187,7 +187,7 @@ U 1 1 5F1A2B3A
 P 5250 2850
 F 0 "R3" H 5318 2896 50  0000 L CNN
 F 1 "R1k" H 5318 2805 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 5250 2850 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5250 2850 50  0001 C CNN
 F 3 "~" H 5250 2850 50  0001 C CNN
 	1    5250 2850
 	1    0    0    -1  
@@ -198,7 +198,7 @@ U 1 1 5F1A2B40
 P 5500 2850
 F 0 "R5" H 5568 2896 50  0000 L CNN
 F 1 "R1k" H 5568 2805 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 5500 2850 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5500 2850 50  0001 C CNN
 F 3 "~" H 5500 2850 50  0001 C CNN
 	1    5500 2850
 	1    0    0    -1  
@@ -212,7 +212,7 @@ U 1 1 5F1A2B4F
 P 9850 1050
 F 0 "C5" H 9968 1096 50  0000 L CNN
 F 1 "CP" H 9968 1005 50  0000 L CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder" H 9888 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9888 900 50  0001 C CNN
 F 3 "~" H 9850 1050 50  0001 C CNN
 	1    9850 1050
 	1    0    0    -1  
@@ -223,7 +223,7 @@ U 1 1 5F1A2B55
 P 9500 1050
 F 0 "C4" H 9618 1096 50  0000 L CNN
 F 1 "CP" H 9618 1005 50  0000 L CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder" H 9538 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9538 900 50  0001 C CNN
 F 3 "~" H 9500 1050 50  0001 C CNN
 	1    9500 1050
 	1    0    0    -1  
@@ -234,7 +234,7 @@ U 1 1 5F1A2B5B
 P 9150 1050
 F 0 "C3" H 9268 1096 50  0000 L CNN
 F 1 "CP" H 9268 1005 50  0000 L CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder" H 9188 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9188 900 50  0001 C CNN
 F 3 "~" H 9150 1050 50  0001 C CNN
 	1    9150 1050
 	1    0    0    -1  
@@ -245,7 +245,7 @@ U 1 1 5F1A2B61
 P 8800 1050
 F 0 "C2" H 8918 1096 50  0000 L CNN
 F 1 "CP" H 8918 1005 50  0000 L CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder" H 8838 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8838 900 50  0001 C CNN
 F 3 "~" H 8800 1050 50  0001 C CNN
 	1    8800 1050
 	1    0    0    -1  
@@ -256,7 +256,7 @@ U 1 1 5F1A2B67
 P 8450 1050
 F 0 "C1" H 8568 1096 50  0000 L CNN
 F 1 "CP" H 8568 1005 50  0000 L CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder" H 8488 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8488 900 50  0001 C CNN
 F 3 "~" H 8450 1050 50  0001 C CNN
 	1    8450 1050
 	1    0    0    -1  
@@ -298,7 +298,7 @@ U 1 1 5F1A2B89
 P 5700 4100
 F 0 "Rext1" H 5768 4146 50  0000 L CNN
 F 1 "R20k" H 5768 4055 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 5700 4100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5700 4100 50  0001 C CNN
 F 3 "~" H 5700 4100 50  0001 C CNN
 	1    5700 4100
 	1    0    0    -1  
@@ -323,7 +323,7 @@ U 1 1 5F1A2B97
 P 5450 4100
 F 0 "R4" H 5518 4146 50  0000 L CNN
 F 1 "R100k" H 5518 4055 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 5450 4100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5450 4100 50  0001 C CNN
 F 3 "~" H 5450 4100 50  0001 C CNN
 	1    5450 4100
 	1    0    0    -1  
@@ -357,7 +357,7 @@ U 1 1 5F1A2BAA
 P 5000 2850
 F 0 "R2" H 5068 2896 50  0000 L CNN
 F 1 "R100k" H 5068 2805 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 5000 2850 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5000 2850 50  0001 C CNN
 F 3 "~" H 5000 2850 50  0001 C CNN
 	1    5000 2850
 	1    0    0    -1  
@@ -382,7 +382,7 @@ U 1 1 5F1A2BB8
 P 4750 2850
 F 0 "R1" H 4818 2896 50  0000 L CNN
 F 1 "R100k" H 4818 2805 50  0000 L CNN
-F 2 "Keebio-Parts:Resistor-Hybrid" H 4750 2850 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4750 2850 50  0001 C CNN
 F 3 "~" H 4750 2850 50  0001 C CNN
 	1    4750 2850
 	1    0    0    -1  
@@ -608,10 +608,10 @@ $EndComp
 Text GLabel 1150 3000 0    50   BiDi ~ 0
 GND
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J10
 U 1 1 60CF2F67
 P 1950 5350
-F 0 "J?" H 1868 4925 50  0000 C CNN
+F 0 "J10" H 1868 4925 50  0000 C CNN
 F 1 "Conn_01x04" H 1868 5016 50  0000 C CNN
 F 2 "" H 1950 5350 50  0001 C CNN
 F 3 "~" H 1950 5350 50  0001 C CNN
@@ -625,10 +625,10 @@ SDA
 Text GLabel 2150 5150 2    50   BiDi ~ 0
 GND
 $Comp
-L Switch:SW_SP3T SW?
+L Switch:SW_SP3T SW3
 U 1 1 60D00869
 P 2800 2350
-F 0 "SW?" H 2800 2633 50  0000 C CNN
+F 0 "SW3" H 2800 2633 50  0000 C CNN
 F 1 "SW_SP3T" H 2800 2542 50  0000 C CNN
 F 2 "" H 2175 2525 50  0001 C CNN
 F 3 "~" H 2175 2525 50  0001 C CNN
@@ -649,10 +649,10 @@ Connection ~ 2900 3400
 Wire Wire Line
 	2900 3400 3100 3400
 $Comp
-L Connector_Generic:Conn_01x02 J?
+L Connector_Generic:Conn_01x02 J11
 U 1 1 60D13CD3
 P 3200 5500
-F 0 "J?" H 3280 5492 50  0000 L CNN
+F 0 "J11" H 3280 5492 50  0000 L CNN
 F 1 "Conn_01x02" H 3280 5401 50  0000 L CNN
 F 2 "" H 3200 5500 50  0001 C CNN
 F 3 "~" H 3200 5500 50  0001 C CNN
@@ -662,10 +662,10 @@ $EndComp
 Text GLabel 3200 5300 1    50   BiDi ~ 0
 GND
 $Comp
-L power:VBUS #PWR?
+L power:VBUS #PWR0109
 U 1 1 60D19774
 P 2400 2500
-F 0 "#PWR?" H 2400 2350 50  0001 C CNN
+F 0 "#PWR0109" H 2400 2350 50  0001 C CNN
 F 1 "VBUS" H 2415 2673 50  0000 C CNN
 F 2 "" H 2400 2500 50  0001 C CNN
 F 3 "" H 2400 2500 50  0001 C CNN
@@ -678,10 +678,10 @@ Wire Wire Line
 	2400 2550 2700 2550
 Connection ~ 2700 2550
 $Comp
-L power:VBUS #PWR?
+L power:VBUS #PWR0110
 U 1 1 60D1BF29
 P 3100 5100
-F 0 "#PWR?" H 3100 4950 50  0001 C CNN
+F 0 "#PWR0110" H 3100 4950 50  0001 C CNN
 F 1 "VBUS" H 3115 5273 50  0000 C CNN
 F 2 "" H 3100 5100 50  0001 C CNN
 F 3 "" H 3100 5100 50  0001 C CNN
