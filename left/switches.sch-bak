@@ -1281,6 +1281,17 @@ Text GLabel 11500 2650 0    50   Input ~ 0
 encA2
 Text GLabel 12100 2450 2    50   Input ~ 0
 col7
-Text GLabel 12100 2650 2    50   Input ~ 0
+Text GLabel 12500 2650 2    50   Input ~ 0
 row6
+$Comp
+L pspice:DIODE D1
+U 1 1 610FCA95
+P 12300 2650
+F 0 "D1" H 12300 2915 50  0000 C CNN
+F 1 "DIODE" H 12300 2824 50  0000 C CNN
+F 2 "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 12300 2650 50  0001 C CNN
+F 3 "~" H 12300 2650 50  0001 C CNN
+	1    12300 2650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
