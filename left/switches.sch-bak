@@ -1255,7 +1255,7 @@ U 1 1 60D96427
 P 11800 2550
 F 0 "SW2" H 11800 2917 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 11800 2826 50  0000 C CNN
-F 2 "Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 11650 2710 50  0001 C CNN
+F 2 "vladkvit_keyb:RotaryEncoderEC11_MX_combo" H 11650 2710 50  0001 C CNN
 F 3 "~" H 11800 2810 50  0001 C CNN
 	1    11800 2550
 	1    0    0    -1  
@@ -1279,4 +1279,8 @@ Text GLabel 11500 2450 0    50   Input ~ 0
 encA1
 Text GLabel 11500 2650 0    50   Input ~ 0
 encA2
+Text GLabel 12100 2450 2    50   Input ~ 0
+col7
+Text GLabel 12100 2650 2    50   Input ~ 0
+row6
 $EndSCHEMATC
