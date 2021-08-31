@@ -52,7 +52,7 @@ U 1 1 5F1A2AAF
 P 1850 1400
 F 0 "J1" H 1807 1725 50  0000 C CNN
 F 1 "AudioJack4" H 1807 1634 50  0000 C CNN
-F 2 "vladkvit_keyb:TRRS-PJ-320A" H 1850 1400 50  0001 C CNN
+F 2 "vladkvit_keyb:TRRS-PJ-320D" H 1850 1400 50  0001 C CNN
 F 3 "~" H 1850 1400 50  0001 C CNN
 	1    1850 1400
 	1    0    0    -1  
@@ -134,12 +134,12 @@ Wire Wire Line
 $Comp
 L power:VCC #PWR0103
 U 1 1 5F1A2B1E
-P 2800 2150
-F 0 "#PWR0103" H 2800 2000 50  0001 C CNN
-F 1 "VCC" H 2817 2323 50  0000 C CNN
-F 2 "" H 2800 2150 50  0001 C CNN
-F 3 "" H 2800 2150 50  0001 C CNN
-	1    2800 2150
+P 2700 2150
+F 0 "#PWR0103" H 2700 2000 50  0001 C CNN
+F 1 "VCC" H 2717 2323 50  0000 C CNN
+F 2 "" H 2700 2150 50  0001 C CNN
+F 3 "" H 2700 2150 50  0001 C CNN
+	1    2700 2150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -422,17 +422,17 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x01 J2
 U 1 1 5F1A2BD0
-P 4650 5250
-F 0 "J2" H 4730 5292 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 5201 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 5250 50  0001 C CNN
-F 3 "~" H 4650 5250 50  0001 C CNN
-	1    4650 5250
+P 4450 4300
+F 0 "J2" H 4530 4342 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 4251 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 4300 50  0001 C CNN
+F 3 "~" H 4450 4300 50  0001 C CNN
+	1    4450 4300
 	1    0    0    -1  
 $EndComp
-Text GLabel 4450 5050 2    50   BiDi ~ 0
+Text GLabel 4250 4100 2    50   BiDi ~ 0
 GND
-Connection ~ 4450 5250
+Connection ~ 4250 4300
 Text GLabel 1150 3700 0    50   BiDi ~ 0
 col6
 Text GLabel 1150 3200 0    50   BiDi ~ 0
@@ -504,41 +504,41 @@ NoConn ~ 7350 5750
 $Comp
 L Connector_Generic:Conn_01x01 J5
 U 1 1 605E17E1
-P 4650 6000
-F 0 "J5" H 4730 6042 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 5951 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 6000 50  0001 C CNN
-F 3 "~" H 4650 6000 50  0001 C CNN
-	1    4650 6000
+P 4450 5050
+F 0 "J5" H 4530 5092 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 5001 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 5050 50  0001 C CNN
+F 3 "~" H 4450 5050 50  0001 C CNN
+	1    4450 5050
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4450 5050 4450 5250
-Connection ~ 4450 6000
+	4250 4100 4250 4300
+Connection ~ 4250 5050
 $Comp
 L Connector_Generic:Conn_01x01 J7
 U 1 1 605F2FDC
-P 4650 6500
-F 0 "J7" H 4730 6542 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 6451 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 6500 50  0001 C CNN
-F 3 "~" H 4650 6500 50  0001 C CNN
-	1    4650 6500
+P 4450 5550
+F 0 "J7" H 4530 5592 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 5501 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 5550 50  0001 C CNN
+F 3 "~" H 4450 5550 50  0001 C CNN
+	1    4450 5550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x01 J9
 U 1 1 605F2FEE
-P 4650 7000
-F 0 "J9" H 4730 7042 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 6951 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 7000 50  0001 C CNN
-F 3 "~" H 4650 7000 50  0001 C CNN
-	1    4650 7000
+P 4450 6050
+F 0 "J9" H 4530 6092 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 6001 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 6050 50  0001 C CNN
+F 3 "~" H 4450 6050 50  0001 C CNN
+	1    4450 6050
 	1    0    0    -1  
 $EndComp
-Connection ~ 4450 6500
-Connection ~ 4450 7000
+Connection ~ 4250 5550
+Connection ~ 4250 6050
 Text GLabel 7350 3950 2    50   Input ~ 0
 led_col14
 Text GLabel 7350 4050 2    50   Input ~ 0
@@ -554,55 +554,55 @@ led_col9
 Wire Wire Line
 	2050 1600 2350 1600
 Wire Wire Line
-	4450 6000 4450 6500
+	4250 5050 4250 5300
 Wire Wire Line
-	4450 6500 4450 7000
+	4250 5550 4250 5800
 Wire Wire Line
-	4450 5250 4450 6000
+	4250 4300 4250 4550
 Wire Wire Line
-	4450 7000 4450 7500
+	4250 6050 4250 6300
 $Comp
 L Connector_Generic:Conn_01x01 J3
 U 1 1 5F49825A
-P 4650 5500
-F 0 "J3" H 4730 5542 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 5451 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 5500 50  0001 C CNN
-F 3 "~" H 4650 5500 50  0001 C CNN
-	1    4650 5500
+P 4450 4550
+F 0 "J3" H 4530 4592 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 4501 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 4550 50  0001 C CNN
+F 3 "~" H 4450 4550 50  0001 C CNN
+	1    4450 4550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x01 J4
 U 1 1 5F49978B
-P 4650 5750
-F 0 "J4" H 4730 5792 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 5701 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 5750 50  0001 C CNN
-F 3 "~" H 4650 5750 50  0001 C CNN
-	1    4650 5750
+P 4450 4800
+F 0 "J4" H 4530 4842 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 4751 50  0000 L CNN
+F 2 "vladkvit_keyb:m2.5_hole" H 4450 4800 50  0001 C CNN
+F 3 "~" H 4450 4800 50  0001 C CNN
+	1    4450 4800
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x01 J6
 U 1 1 5F5A59CE
-P 4650 6250
-F 0 "J6" H 4730 6292 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 6201 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 6250 50  0001 C CNN
-F 3 "~" H 4650 6250 50  0001 C CNN
-	1    4650 6250
+P 4450 5300
+F 0 "J6" H 4530 5342 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 5251 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 5300 50  0001 C CNN
+F 3 "~" H 4450 5300 50  0001 C CNN
+	1    4450 5300
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x01 J8
 U 1 1 5F5A6F89
-P 4650 6750
-F 0 "J8" H 4730 6792 50  0000 L CNN
-F 1 "Conn_01x01" H 4730 6701 50  0000 L CNN
-F 2 "vladkvit_keyb:m2.5_hole" H 4650 6750 50  0001 C CNN
-F 3 "~" H 4650 6750 50  0001 C CNN
-	1    4650 6750
+P 4450 5800
+F 0 "J8" H 4530 5842 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 5751 50  0000 L CNN
+F 2 "vladkvit_keyb:m2.5_hole" H 4450 5800 50  0001 C CNN
+F 3 "~" H 4450 5800 50  0001 C CNN
+	1    4450 5800
 	1    0    0    -1  
 $EndComp
 Text GLabel 1150 3000 0    50   BiDi ~ 0
@@ -624,17 +624,6 @@ Text GLabel 2150 5450 2    50   BiDi ~ 0
 SDA
 Text GLabel 2150 5150 2    50   BiDi ~ 0
 GND
-$Comp
-L Switch:SW_SP3T SW3
-U 1 1 60D00869
-P 2800 2350
-F 0 "SW3" H 2800 2633 50  0000 C CNN
-F 1 "SW_SP3T" H 2800 2542 50  0000 C CNN
-F 2 "" H 2175 2525 50  0001 C CNN
-F 3 "~" H 2175 2525 50  0001 C CNN
-	1    2800 2350
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	2550 3000 2700 3000
 Wire Wire Line
@@ -648,17 +637,6 @@ Wire Wire Line
 Connection ~ 2900 3400
 Wire Wire Line
 	2900 3400 3100 3400
-$Comp
-L Connector_Generic_MountingPin:Conn_01x02_MountingPin J11
-U 1 1 60D13CD3
-P 3450 5950
-F 0 "J11" V 3326 6030 50  0000 L CNN
-F 1 "Conn_01x02" V 3417 6030 50  0000 L CNN
-F 2 "Connector_JST:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal" H 3450 5950 50  0001 C CNN
-F 3 "~" H 3450 5950 50  0001 C CNN
-	1    3450 5950
-	0    1    1    0   
-$EndComp
 Text GLabel 3200 5300 1    50   BiDi ~ 0
 GND
 $Comp
@@ -676,7 +654,6 @@ Wire Wire Line
 	2400 2500 2400 2550
 Wire Wire Line
 	2400 2550 2700 2550
-Connection ~ 2700 2550
 Text GLabel 1150 3100 0    50   BiDi ~ 0
 col8
 NoConn ~ 2050 4500
@@ -694,30 +671,16 @@ NoConn ~ 7350 2950
 NoConn ~ 7350 3850
 NoConn ~ 7350 3750
 $Comp
-L Connector_Generic_MountingPin:Conn_01x02_MountingPin J12
+L Connector_Generic:Conn_01x02 J12
 U 1 1 60F3DED5
 P 3200 5750
 F 0 "J12" V 3076 5830 50  0000 L CNN
 F 1 "Conn_01x02" V 3167 5830 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal" H 3200 5750 50  0001 C CNN
+F 2 "vladkvit_keyb:battery_solder_point" H 3200 5750 50  0001 C CNN
 F 3 "~" H 3200 5750 50  0001 C CNN
 	1    3200 5750
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	3100 5100 3100 5500
-Wire Wire Line
-	3200 5300 3200 5400
-Wire Wire Line
-	3350 5500 3100 5500
-Connection ~ 3100 5500
-Wire Wire Line
-	3100 5500 3100 5550
-Wire Wire Line
-	3200 5400 3450 5400
-Connection ~ 3200 5400
-Wire Wire Line
-	3200 5400 3200 5550
 $Comp
 L power:VCC #PWR0110
 U 1 1 61192EA4
@@ -730,29 +693,140 @@ F 3 "" H 3100 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3350 5500 3350 5750
+	3100 5100 3100 5550
 Wire Wire Line
-	3450 5400 3450 5750
+	3200 5300 3200 5550
 $Comp
-L power:GND #PWR?
-U 1 1 611B7A2C
-P 2900 5750
-F 0 "#PWR?" H 2900 5500 50  0001 C CNN
-F 1 "GND" H 2905 5577 50  0000 C CNN
-F 2 "" H 2900 5750 50  0001 C CNN
-F 3 "" H 2900 5750 50  0001 C CNN
-	1    2900 5750
+L Connector_Generic:Conn_01x01 J11
+U 1 1 612F357A
+P 4450 6300
+F 0 "J11" H 4530 6342 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 6251 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 6300 50  0001 C CNN
+F 3 "~" H 4450 6300 50  0001 C CNN
+	1    4450 6300
+	1    0    0    -1  
+$EndComp
+Connection ~ 4250 4550
+Wire Wire Line
+	4250 4550 4250 4800
+Connection ~ 4250 4800
+Wire Wire Line
+	4250 4800 4250 5050
+Connection ~ 4250 5300
+Wire Wire Line
+	4250 5300 4250 5550
+Connection ~ 4250 5800
+Wire Wire Line
+	4250 5800 4250 6050
+Connection ~ 4250 6300
+Wire Wire Line
+	4250 6300 4250 6550
+$Comp
+L Connector_Generic:Conn_01x01 J13
+U 1 1 612FC449
+P 4450 6550
+F 0 "J13" H 4530 6592 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 6501 50  0000 L CNN
+F 2 "vladkvit_keyb:standoff_m2.5" H 4450 6550 50  0001 C CNN
+F 3 "~" H 4450 6550 50  0001 C CNN
+	1    4450 6550
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
-U 1 1 611B8E82
-P 3150 5950
-F 0 "#PWR?" H 3150 5700 50  0001 C CNN
-F 1 "GND" H 3155 5777 50  0000 C CNN
-F 2 "" H 3150 5950 50  0001 C CNN
-F 3 "" H 3150 5950 50  0001 C CNN
-	1    3150 5950
+L Connector_Generic:Conn_01x01 J14
+U 1 1 612FE05A
+P 4450 6800
+F 0 "J14" H 4530 6842 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 6751 50  0000 L CNN
+F 2 "vladkvit_keyb:standoff_m2.5" H 4450 6800 50  0001 C CNN
+F 3 "~" H 4450 6800 50  0001 C CNN
+	1    4450 6800
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J15
+U 1 1 612FFCAF
+P 4450 7050
+F 0 "J15" H 4530 7092 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 7001 50  0000 L CNN
+F 2 "vladkvit_keyb:standoff_m2.5" H 4450 7050 50  0001 C CNN
+F 3 "~" H 4450 7050 50  0001 C CNN
+	1    4450 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J16
+U 1 1 6130188B
+P 4450 7300
+F 0 "J16" H 4530 7342 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 7251 50  0000 L CNN
+F 2 "vladkvit_keyb:standoff_m2.5" H 4450 7300 50  0001 C CNN
+F 3 "~" H 4450 7300 50  0001 C CNN
+	1    4450 7300
+	1    0    0    -1  
+$EndComp
+Connection ~ 4250 6550
+Wire Wire Line
+	4250 6550 4250 6800
+Connection ~ 4250 6800
+Wire Wire Line
+	4250 6800 4250 7050
+Connection ~ 4250 7050
+Wire Wire Line
+	4250 7050 4250 7300
+Connection ~ 4250 7300
+Wire Wire Line
+	4250 7300 4250 7650
+$Comp
+L Connector_Generic:Conn_01x01 J17
+U 1 1 6130C65F
+P 4450 7550
+F 0 "J17" H 4530 7592 50  0000 L CNN
+F 1 "Conn_01x01" H 4530 7501 50  0000 L CNN
+F 2 "vladkvit_keyb:SMTSO_mount_m2.5" H 4450 7550 50  0001 C CNN
+F 3 "~" H 4450 7550 50  0001 C CNN
+	1    4450 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW4
+U 1 1 614676CE
+P 2700 2350
+F 0 "SW4" H 2700 2585 50  0000 C CNN
+F 1 "SW_SPST" H 2700 2494 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 2700 2350 50  0001 C CNN
+F 3 "~" H 2700 2350 50  0001 C CNN
+	1    2700 2350
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2700 2550
+$Comp
+L Switch:SW_SPST SW5
+U 1 1 614705BB
+P 2800 2350
+F 0 "SW5" H 2800 2585 50  0000 C CNN
+F 1 "SW_SPST" H 2800 2494 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 2800 2350 50  0001 C CNN
+F 3 "~" H 2800 2350 50  0001 C CNN
+	1    2800 2350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_SPST SW6
+U 1 1 61471185
+P 2900 2350
+F 0 "SW6" H 2900 2585 50  0000 C CNN
+F 1 "SW_SPST" H 2900 2494 50  0000 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 2900 2350 50  0001 C CNN
+F 3 "~" H 2900 2350 50  0001 C CNN
+	1    2900 2350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2700 2150 2800 2150
+Connection ~ 2700 2150
+Connection ~ 2800 2150
+Wire Wire Line
+	2800 2150 2900 2150
 $EndSCHEMATC
