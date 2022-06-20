@@ -624,17 +624,6 @@ Text GLabel 2150 5450 2    50   BiDi ~ 0
 SDA
 Text GLabel 2150 5150 2    50   BiDi ~ 0
 GND
-$Comp
-L Switch:SW_SP3T SW3
-U 1 1 60D00869
-P 3450 1750
-F 0 "SW3" H 3450 2033 50  0000 C CNN
-F 1 "SW_SP3T" H 3450 1942 50  0000 C CNN
-F 2 "" H 2825 1925 50  0001 C CNN
-F 3 "~" H 2825 1925 50  0001 C CNN
-	1    3450 1750
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	2550 3000 2700 3000
 Wire Wire Line

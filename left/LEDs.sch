@@ -959,7 +959,7 @@ Connection ~ 4250 8000
 Connection ~ 5200 8000
 Connection ~ 6150 8000
 Wire Wire Line
-	6150 8000 8050 8000
+	6150 8000 7650 8000
 Connection ~ 2050 7700
 Wire Wire Line
 	2050 7700 3000 7700
@@ -974,10 +974,10 @@ Wire Wire Line
 	4900 7700 5850 7700
 Connection ~ 5850 7700
 Wire Wire Line
-	5850 7700 8050 7700
+	5850 7700 7150 7700
 Connection ~ 6000 7850
 Wire Wire Line
-	6000 7850 8000 7850
+	6000 7850 7400 7850
 Connection ~ 5050 7850
 Wire Wire Line
 	5050 7850 6000 7850
@@ -1215,8 +1215,6 @@ Wire Wire Line
 Wire Wire Line
 	4800 5850 4800 7250
 Wire Wire Line
-	5750 5850 5750 7250
-Wire Wire Line
 	6700 5850 6700 7250
 Text GLabel 8050 1600 2    50   Input ~ 0
 led_row1A
@@ -1268,7 +1266,7 @@ Wire Wire Line
 	5750 8450 5750 9650
 Connection ~ 6700 7250
 Wire Wire Line
-	6700 7250 6700 8450
+	6700 7250 6700 7550
 Connection ~ 6700 8450
 Wire Wire Line
 	6700 8450 6700 9650
@@ -1363,4 +1361,68 @@ F 3 "" H 4250 9400 60  0000 C CNN
 	3    4350 9650
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J19
+U 1 1 615D8A09
+P 7150 7300
+F 0 "J19" V 7114 7212 50  0000 R CNN
+F 1 "Conn_01x01" V 7023 7212 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 7150 7300 50  0001 C CNN
+F 3 "~" H 7150 7300 50  0001 C CNN
+	1    7150 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J20
+U 1 1 615DD410
+P 7400 7300
+F 0 "J20" V 7364 7212 50  0000 R CNN
+F 1 "Conn_01x01" V 7273 7212 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 7400 7300 50  0001 C CNN
+F 3 "~" H 7400 7300 50  0001 C CNN
+	1    7400 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J21
+U 1 1 615DF770
+P 7650 7300
+F 0 "J21" V 7614 7212 50  0000 R CNN
+F 1 "Conn_01x01" V 7523 7212 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 7650 7300 50  0001 C CNN
+F 3 "~" H 7650 7300 50  0001 C CNN
+	1    7650 7300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J18
+U 1 1 615E0B83
+P 6900 7550
+F 0 "J18" H 6980 7592 50  0000 L CNN
+F 1 "Conn_01x01" H 6980 7501 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 6900 7550 50  0001 C CNN
+F 3 "~" H 6900 7550 50  0001 C CNN
+	1    6900 7550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7150 7700 7150 7500
+Connection ~ 7150 7700
+Wire Wire Line
+	7150 7700 8050 7700
+Wire Wire Line
+	7400 7500 7400 7850
+Connection ~ 7400 7850
+Wire Wire Line
+	7400 7850 8000 7850
+Wire Wire Line
+	7650 7500 7650 8000
+Connection ~ 7650 8000
+Wire Wire Line
+	7650 8000 8050 8000
+Connection ~ 6700 7550
+Wire Wire Line
+	6700 7550 6700 8450
+Wire Wire Line
+	5750 5850 5750 7250
 $EndSCHEMATC
