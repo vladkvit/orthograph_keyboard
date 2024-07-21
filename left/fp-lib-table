@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name promicro)(type KiCad)(uri "C:/Users/Vlad/Documents/keyboard project/kicad/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
-  (lib (name vladkvit_keyb)(type KiCad)(uri "C:/Users/Vlad/Documents/keyboard project/kicad/vladkvit_keyb/vladkvit_keyb.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "promicro")(type "KiCad")(uri "D:/Documents_Vlad/projects/keyboard project_backup/kicad/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
+  (lib (name "vladkvit_keyb")(type "KiCad")(uri "D:/Documents_Vlad/projects/keyboard project_backup/kicad/vladkvit_keyb/vladkvit_keyb.pretty")(options "")(descr ""))
 )

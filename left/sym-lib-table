@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name "Driver_LED")(type "KiCad")(uri "C:/Users/Vlad/Documents/keyboard project/kicad/Driver_LED/Driver_LED.kicad_sym")(options "")(descr ""))
-  (lib (name "promicro")(type "KiCad")(uri "C:/Users/Vlad/Documents/keyboard project/kicad/ProMicroKiCad-master/promicro_library/promicro.kicad_sym")(options "")(descr ""))
-  (lib (name "vladkvit_keyb")(type "KiCad")(uri "C:/Users/Vlad/Documents/keyboard project/kicad/vladkvit_keyb/vladkvit_keyb_symbols/vladkvit_keyb.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "Driver_LED")(type "KiCad")(uri "C:/Users/Vlad/Documents/keyboard project/kicad/Driver_LED/Driver_LED.kicad_sym")(options "")(descr "")(disabled)(hidden))
+  (lib (name "promicro")(type "KiCad")(uri "D:/Documents_Vlad/projects/keyboard project_backup/kicad/ProMicroKiCad-master/promicro_library/promicro.kicad_sym")(options "")(descr ""))
+  (lib (name "vladkvit_keyb")(type "KiCad")(uri "D:/Documents_Vlad/projects/keyboard project_backup/kicad/vladkvit_keyb/vladkvit_keyb_symbols/vladkvit_keyb.kicad_sym")(options "")(descr ""))
 )

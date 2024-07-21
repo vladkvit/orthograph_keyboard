@@ -1,533 +1,89 @@
-(kicad_sch (version 20211123) (generator eeschema)
-
-  (uuid 0217dfc4-fc13-4699-99ad-d9948522648e)
-
-  (paper "A4")
-
-  (lib_symbols
-  )
-
-
-  (sheet (at 40.64 110.49) (size 46.99 38.1) (fields_autoplaced)
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 00000000-0000-0000-0000-00005f15430e)
-    (property "Sheet name" "Switches" (id 0) (at 40.64 109.7784 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "switches.kicad_sch" (id 1) (at 40.64 149.1746 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
-  (sheet (at 24.13 54.61) (size 52.07 26.67) (fields_autoplaced)
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 00000000-0000-0000-0000-00005f159b76)
-    (property "Sheet name" "Controller" (id 0) (at 24.13 53.8984 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "Controller.kicad_sch" (id 1) (at 24.13 81.8646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
-  (sheet (at 133.35 97.79) (size 60.96 40.64) (fields_autoplaced)
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 00000000-0000-0000-0000-00005f2d2bdb)
-    (property "Sheet name" "LEDs" (id 0) (at 133.35 97.0784 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "LEDs.kicad_sch" (id 1) (at 133.35 139.0146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
-  (sheet_instances
-    (path "/" (page "1"))
-    (path "/00000000-0000-0000-0000-00005f159b76" (page "2"))
-    (path "/00000000-0000-0000-0000-00005f15430e" (page "3"))
-    (path "/00000000-0000-0000-0000-00005f2d2bdb" (page "4"))
-  )
-
-  (symbol_instances
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2ad1"
-      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b10"
-      (reference "#PWR0102") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b1e"
-      (reference "#PWR0103") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b26"
-      (reference "#PWR0104") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b2c"
-      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b34"
-      (reference "#PWR0106") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2bbf"
-      (reference "#PWR0107") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-000060d9642d"
-      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-000060d19774"
-      (reference "#PWR0109") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-000061192ea4"
-      (reference "#PWR0110") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b67"
-      (reference "C1") (unit 1) (value "CP") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b61"
-      (reference "C2") (unit 1) (value "CP") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b5b"
-      (reference "C3") (unit 1) (value "CP") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b55"
-      (reference "C4") (unit 1) (value "CP") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b4f"
-      (reference "C5") (unit 1) (value "CP") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2aa9"
-      (reference "C6") (unit 1) (value "CP") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-0000610fca95"
-      (reference "D1") (unit 1) (value "DIODE") (footprint "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2aaf"
-      (reference "J1") (unit 1) (value "AudioJack4") (footprint "vladkvit_keyb:TRRS-PJ-320D")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2bd0"
-      (reference "J2") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f49825a"
-      (reference "J3") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f49978b"
-      (reference "J4") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:m2.5_hole")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000605e17e1"
-      (reference "J5") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f5a59ce"
-      (reference "J6") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000605f2fdc"
-      (reference "J7") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f5a6f89"
-      (reference "J8") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:m2.5_hole")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000605f2fee"
-      (reference "J9") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-000060cf2f67"
-      (reference "J10") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000612f357a"
-      (reference "J11") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-000060f3ded5"
-      (reference "J12") (unit 1) (value "Conn_01x02") (footprint "vladkvit_keyb:battery_solder_point")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000612fc449"
-      (reference "J13") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:standoff_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000612fe05a"
-      (reference "J14") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:standoff_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000612ffcaf"
-      (reference "J15") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:standoff_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00006130188b"
-      (reference "J16") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:standoff_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00006130c65f"
-      (reference "J17") (unit 1) (value "Conn_01x01") (footprint "vladkvit_keyb:SMTSO_mount_m2.5")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-0000615e0b83"
-      (reference "J18") (unit 1) (value "Conn_01x01") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-0000615d8a09"
-      (reference "J19") (unit 1) (value "Conn_01x01") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-0000615dd410"
-      (reference "J20") (unit 1) (value "Conn_01x01") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-0000615df770"
-      (reference "J21") (unit 1) (value "Conn_01x01") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f15fefe"
-      (reference "K11") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f160f50"
-      (reference "K11") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f2d420a"
-      (reference "K11") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1691dc"
-      (reference "K12") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f16b0c6"
-      (reference "K12") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f2d4204"
-      (reference "K12") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f176022"
-      (reference "K13") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f176028"
-      (reference "K13") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f55135c"
-      (reference "K13") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1788f7"
-      (reference "K14") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1788fd"
-      (reference "K14") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f55287c"
-      (reference "K14") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f17b0fc"
-      (reference "K15") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f17b102"
-      (reference "K15") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f553efd"
-      (reference "K15") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f17e637"
-      (reference "K16") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f17e63d"
-      (reference "K16") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f55691e"
-      (reference "K16") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f183f1c"
-      (reference "K21") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f183f22"
-      (reference "K21") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6d1ad3"
-      (reference "K21") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f186e57"
-      (reference "K22") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f186e5d"
-      (reference "K22") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6d1acd"
-      (reference "K22") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1891d9"
-      (reference "K23") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1891df"
-      (reference "K23") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6d1ae4"
-      (reference "K23") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f18b784"
-      (reference "K24") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f18b78a"
-      (reference "K24") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6d1aee"
-      (reference "K24") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f18dc8c"
-      (reference "K25") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f18dc92"
-      (reference "K25") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6d1af8"
-      (reference "K25") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f18facb"
-      (reference "K26") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f18fad1"
-      (reference "K26") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6d1b02"
-      (reference "K26") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1a9126"
-      (reference "K31") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1a912c"
-      (reference "K31") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6e34f5"
-      (reference "K31") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1b7b71"
-      (reference "K32") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1b7b77"
-      (reference "K32") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6e34ef"
-      (reference "K32") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1bb313"
-      (reference "K33") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1bb319"
-      (reference "K33") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6e3506"
-      (reference "K33") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1be04f"
-      (reference "K34") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1be055"
-      (reference "K34") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6e3510"
-      (reference "K34") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1c0870"
-      (reference "K35") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1c0876"
-      (reference "K35") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6e351a"
-      (reference "K35") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1c3d3b"
-      (reference "K36") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1c3d41"
-      (reference "K36") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f6e3524"
-      (reference "K36") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1ac4e4"
-      (reference "K41") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1ac4ea"
-      (reference "K41") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e4c3"
-      (reference "K41") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1c7d2d"
-      (reference "K42") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1c7d33"
-      (reference "K42") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e4bd"
-      (reference "K42") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1cb6b8"
-      (reference "K43") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1cb6be"
-      (reference "K43") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e4d4"
-      (reference "K43") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1cf456"
-      (reference "K44") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1cf45c"
-      (reference "K44") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e4de"
-      (reference "K44") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1d330e"
-      (reference "K45") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1d3314"
-      (reference "K45") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e4e8"
-      (reference "K45") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1d7597"
-      (reference "K46") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f1d759d"
-      (reference "K46") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e4f2"
-      (reference "K46") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df09"
-      (reference "K51") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df0f"
-      (reference "K51") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e52b"
-      (reference "K51") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_150H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df29"
-      (reference "K52") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df2f"
-      (reference "K52") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e525"
-      (reference "K52") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df39"
-      (reference "K53") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df3f"
-      (reference "K53") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e53c"
-      (reference "K53") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df48"
-      (reference "K54") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df4e"
-      (reference "K54") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e546"
-      (reference "K54") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df58"
-      (reference "K55") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df5e"
-      (reference "K55") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e550"
-      (reference "K55") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df68"
-      (reference "K56") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df6e"
-      (reference "K56") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e55a"
-      (reference "K56") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_100H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df19"
-      (reference "K61") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df1f"
-      (reference "K61") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e593"
-      (reference "K61") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df78"
-      (reference "K62") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df7e"
-      (reference "K62") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e58d"
-      (reference "K62") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df88"
-      (reference "K63") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20df8e"
-      (reference "K63") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e5a4"
-      (reference "K63") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005ff5edf1"
-      (reference "K64") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005ff5edf7"
-      (reference "K64") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005ff53cbd"
-      (reference "K64") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_125H_hotswap_diode_RGB_rot")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20dfa8"
-      (reference "K65") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20dfae"
-      (reference "K65") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e5b8"
-      (reference "K65") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20dfb8"
-      (reference "K66") (unit 1) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-00005f20dfbe"
-      (reference "K66") (unit 2) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB")
-    )
-    (path "/00000000-0000-0000-0000-00005f2d2bdb/00000000-0000-0000-0000-00005f73e5c2"
-      (reference "K66") (unit 3) (value "KEYSW_RGB") (footprint "vladkvit_keyb:Hybrid_PCB_200H_hotswap_diode_RGB")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2bb8"
-      (reference "R1") (unit 1) (value "R100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2baa"
-      (reference "R2") (unit 1) (value "R100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b3a"
-      (reference "R3") (unit 1) (value "R1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b97"
-      (reference "R4") (unit 1) (value "R100k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b40"
-      (reference "R5") (unit 1) (value "R1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2b89"
-      (reference "Rext1") (unit 1) (value "R20k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2ab5"
-      (reference "SW1") (unit 1) (value "SW_PUSH_RESET") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/00000000-0000-0000-0000-00005f15430e/00000000-0000-0000-0000-000060d96427"
-      (reference "SW2") (unit 1) (value "Rotary_Encoder_Switch") (footprint "vladkvit_keyb:RotaryEncoderEC11_MX_combo")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000614676ce"
-      (reference "SW4") (unit 1) (value "SW_SPST") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-0000614705bb"
-      (reference "SW5") (unit 1) (value "SW_SPST") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-000061471185"
-      (reference "SW6") (unit 1) (value "SW_SPST") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2aa3"
-      (reference "U1") (unit 1) (value "microctrl_superset") (footprint "vladkvit_keyb:microcontroller_eliteC_ninenano")
-    )
-    (path "/00000000-0000-0000-0000-00005f159b76/00000000-0000-0000-0000-00005f1a2a9d"
-      (reference "U2") (unit 1) (value "IS31FL3733-TQ") (footprint "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm")
-    )
-  )
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0217dfc4-fc13-4699-99ad-d9948522648e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 119.38 49.53)
+		(size 46.99 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005f15430e")
+		(property "Sheetname" "Switches"
+			(at 119.38 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "switches.kicad_sch"
+			(at 119.38 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ortho_half"
+				(path "/0217dfc4-fc13-4699-99ad-d9948522648e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 54.61)
+		(size 52.07 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00005f159b76")
+		(property "Sheetname" "Controller"
+			(at 24.13 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Controller.kicad_sch"
+			(at 24.13 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ortho_half"
+				(path "/0217dfc4-fc13-4699-99ad-d9948522648e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
